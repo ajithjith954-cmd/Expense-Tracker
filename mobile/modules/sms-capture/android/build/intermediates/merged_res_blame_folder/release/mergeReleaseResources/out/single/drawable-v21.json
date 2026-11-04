@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.expensetracker.smscapture.sms-capture-release-3:/drawable-v21/notification_action_background.xml",
+        "source": "com.expensetracker.smscapture.sms-capture-core-1.12.0-15:/drawable-v21/notification_action_background.xml"
+    }
+]

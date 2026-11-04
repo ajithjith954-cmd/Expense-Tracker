@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.expensetracker.smscapture.sms-capture-mergeReleaseResources-1:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/private/var/folders/cf/tsfbhndj5zn0j559114_z5l5jvb5sf/T/cursor-sandbox-cache/1f55e83c4db584bba24ccfbd96d6cf98/gradle/caches/9.3.1/transforms/4ddd4a755981d35f7759fa59c46beee1/transformed/work-runtime-2.10.1/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.expensetracker.smscapture.sms-capture-release-3:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/private/var/folders/cf/tsfbhndj5zn0j559114_z5l5jvb5sf/T/cursor-sandbox-cache/1f55e83c4db584bba24ccfbd96d6cf98/gradle/caches/9.3.1/transforms/4ddd4a755981d35f7759fa59c46beee1/transformed/work-runtime-2.10.1/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}

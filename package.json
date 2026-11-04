@@ -1,0 +1,12 @@
+{
+  "name": "expense-tracker",
+  "private": true,
+  "scripts": {
+    "mobile": "npm --prefix mobile start",
+    "mobile:web": "npm --prefix mobile run web",
+    "mobile:typecheck": "npm --prefix mobile run typecheck",
+    "api": "npm --prefix expense-tracker-api run dev",
+    "api:test": "npm --prefix expense-tracker-api test",
+    "typecheck": "npm --prefix mobile run typecheck && npm --prefix expense-tracker-api run typecheck"
+  }
+}
